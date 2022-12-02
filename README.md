@@ -35,7 +35,6 @@ Exemplo de arquivo de JSON utilizando livros
             "release_date" : "2013-01-18T00:00:00Z",
             "rating" : 6.2,
             "genres" : ["Comedy", "Drama"],
-            "image_url" : "http://ia.media-imdb.com/images/N/O9ERWAU7FS797AJ7LU8HN09AMUP908RLlo5JF90EWR7LJKQ7@@._V1_SX400_.jpg",
             "plot" : "A rock band plays their music at high volumes, annoying the neighbors.",
             "actors" : ["David Matthewman", "Jonathan G. Neff"]
         }
